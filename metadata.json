@@ -1,0 +1,6 @@
+{
+  "name": "DAYORA",
+  "description": "A dreamy, gamified daily lifestyle and self-care companion with interactive step-by-step routines, coins, 7-day challenges, rewards, and local content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
